@@ -82,7 +82,7 @@ var theme = {
         ]
     }
 };
-tui.chart.columnChart(container, data, options);
+tui.chart.barChart(container, data, options);
 </script>
 
 <!--For tutorial page-->
